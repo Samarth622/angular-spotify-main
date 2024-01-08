@@ -121,6 +121,6 @@ I set a tentative deadline for motivating myself to finish the work on time. Oth
 ## Setting up the development environment 🛠
 
 - `git clone https://github.com/Samarth622/angular-spotify-main.git`
-- `cd angular-spotify`
+- `cd angular-spotify-main`
 - `npm start` for starting Angular web application
 - The app should run on `http://localhost:4200/`
